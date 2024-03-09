@@ -1,3 +1,4 @@
+https://devpost.com/software/anime-ratings-what-we-can-tell-from-them-and-our-prediction
 
 Inspiration
 We wanted to dive deeper into this topic because lots of people have trouble choosing what anime to watch next or if a new anime is worth watching. So we wanted to help make suggestions based on anime features. Knowing the answers could help anime writers or producers know what is making certain animes more popular and have higher ratings that please viewers. This helps them adapt and allows them to know what is trending or what features might make a better anime.
